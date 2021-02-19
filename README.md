@@ -1,6 +1,7 @@
 # Profile
 
-
+## 所属
+- 早稲田大学商学部経済トラック
 
 ## 使用言語(技術)
 
@@ -29,7 +30,7 @@ node.js javascript firebase flutter Ruby PHP GAS
 
 [qiita](https://qiita.com/kyo51310)
 
-
+<img src="https://grass-graph.moshimo.works/images/kk3939.png">
 [![](https://raw.githubusercontent.com/kk3939/kk3939/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kk3939/kk3939/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kk3939/kk3939/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
