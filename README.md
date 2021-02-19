@@ -1,5 +1,7 @@
 # Profile
 
+
+
 ## 使用言語(技術)
 
 node.js javascript firebase flutter Ruby PHP GAS
@@ -7,7 +9,7 @@ node.js javascript firebase flutter Ruby PHP GAS
 
 ## プログラミングに関する経歴
 
-学生の時に所属していた団体のバックオフィス業務の効率化をするため、初めてpython,GASに触れました。
+学生の時に経営に携わった会社のバックオフィス業務の効率化をするため、初めてpython,GASに触れました。
 
 大学1年〜２年にかけて、Ruby（Rails）で半年かけて個人でポートフォリオを作り、エン・ジャパン株式会社でサーバーサイドエンジニアとしてインターンさせて頂きました。
 
