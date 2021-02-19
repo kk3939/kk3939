@@ -1,6 +1,6 @@
 # Profile
 
-## 使用言語
+## 使用言語(技術)
 
 node.js javascript firebase flutter Ruby PHP GAS
 
