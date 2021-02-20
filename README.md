@@ -36,4 +36,3 @@ node.js javascript firebase flutter Ruby PHP GAS
 
 [qiita](https://qiita.com/kyo51310)
 
-<img src="https://grass-graph.moshimo.works/images/kk3939.png">
