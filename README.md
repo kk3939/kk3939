@@ -11,7 +11,7 @@
 
 ## 使用言語(技術)
 
-node.js javascript firebase flutter Ruby PHP GAS
+node.js React.js Next.js firebase flutter dart Ruby rails PHP GAS
 
 
 ## プログラミングに関する経歴
