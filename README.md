@@ -9,16 +9,16 @@
 ## 出身大学
 - Waseda uni. SOC
 
-## 使用言語(技術)
+## 使用したことのある言語(技術)
 
-- node.js 
+- Node.js 
 - React.js
 - Next.js 
-- firebase 
+- firebase （Firestore）
 - flutter 
 - dart 
 - Ruby 
-- rails 
+- Rails 
 - PHP 
 - GAS
 
