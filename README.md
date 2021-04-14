@@ -24,8 +24,6 @@
 
 ## リンク集
 
-[twitter](https://twitter.com/kyo9bo)
-
 [instagram](https://www.instagram.com/?hl=ja)
 
 [zenn](https://zenn.dev/kyo9bo)
