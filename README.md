@@ -24,8 +24,6 @@
 
 ## リンク集
 
-[instagram](https://www.instagram.com/?hl=ja)
-
 [zenn](https://zenn.dev/kyo9bo)
 
 [qiita](https://qiita.com/kyo51310)
