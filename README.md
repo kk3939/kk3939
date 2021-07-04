@@ -15,12 +15,15 @@
 - React.js
 - Next.js 
 - firebase （Firestore）
-- flutter 
-- dart 
+- Flutter 
+- Dart 
 - Ruby 
 - Rails 
 - PHP 
 - GAS
+- Docker
+- Vagrant
+- Typescript
 
 ## リンク集
 
