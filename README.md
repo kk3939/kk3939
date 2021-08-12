@@ -2,6 +2,18 @@
 
 ## Hi.I'm Kyosuke kubo!
 
+- web developer!!
+- Main field is Frontend!
+
+### Like
+
+- Javascript
+- Typescript
+- React
+- Next
+- Flutter
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk3939&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kk3939&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kk3939&theme=monokai)
