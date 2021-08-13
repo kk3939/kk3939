@@ -1,9 +1,10 @@
 
 
-## Hi.I'm Kyosuke kubo!　🍺　🍺　🍺　🍺
+## Hi.I'm Kyosuke kubo!🍺🍺🍺🍺
 
-- web developer!!　👀　✍️
-- Main field is Frontend!　🎢
+
+- web developer!!👀✍️
+- Main field is Frontend!🎢
 
 ### Like
 
