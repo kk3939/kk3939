@@ -1,6 +1,6 @@
 
 
-## Hi.I'm Kyosuke kubo!🍺🍺🍺🍺
+## Hi.I'm 🍺🍺🍺🍺
 
 
 - web developer!!👀✍️
