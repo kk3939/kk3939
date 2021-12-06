@@ -4,7 +4,7 @@
 
 
 - web developer!!👀✍️
-- Main field is Frontend!🎢
+- Mainly, I work on frontend🎢
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kk3939&count_private=true&show_icons=true&theme=radical)
 
