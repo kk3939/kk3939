@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk3939&layout=compact&theme=radical)](https://github.com/kk3939/github-readme-stats)
 
-### Like
+### Like💄
 
 - Javascript
 - Typescript
@@ -18,9 +18,9 @@
 - Next
 - Flutter
 
-### TechBlog
+### TechBlog💍
 - [Zenn](https://zenn.dev/kyo9bo)👾
 - [Qiita](https://qiita.com/kyo51310)😺
 
-### Blog(about anything except programing)
+### Blog(about anything except programing)⛴
 - [hatenablog](https://kyo9bo.hatenablog.com/)🥳
