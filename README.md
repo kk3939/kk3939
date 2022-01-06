@@ -22,5 +22,5 @@
 - [Zenn](https://zenn.dev/kyo9bo)👾
 - [Qiita](https://qiita.com/kyo51310)😺
 
-### Blog(about anything except programing)⛴
+### Blog(about )⛴
 - [hatenablog](https://kyo9bo.hatenablog.com/)🥳
