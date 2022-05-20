@@ -11,3 +11,6 @@
 ### Blog(about life and my thought)⛴
 
 - [hatenablog](https://kyo9bo.hatenablog.com/)🥳
+
+### SNS🐉
+- [twitter](https://twitter.com/kyo9bonnn)
