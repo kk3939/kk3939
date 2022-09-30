@@ -8,7 +8,7 @@
 - [Zenn](https://zenn.dev/kyo9bo)👾
 - [Qiita](https://qiita.com/kyo9bo)😺
 
-### Blog(about life and my thought)⛴
+### Blog(about product Management and life)⛴
 
 - [hatenablog](https://kyo9bo.hatenablog.com/)🥳
 
