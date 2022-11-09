@@ -8,9 +8,13 @@
 - [Zenn](https://zenn.dev/kyo9bo)👾
 - [Qiita](https://qiita.com/kyo9bo)😺
 
-### Blog(about product Management and life)⛴
+### Blog⛴
 
 - [hatenablog](https://kyo9bo.hatenablog.com/)🥳
+
+### Memo📙
+If it is not as good as writing in blog or tech blog, write it in gist.
+[gist](https://gist.github.com/kk3939)⚾️
 
 ### SNS🐉
 - [twitter](https://twitter.com/kyo9bonnn)
