@@ -16,7 +16,7 @@
 
 If it is not as good as writing in blog or tech blog, write it in scrapbox.
 
-- [scrrapbox](https://scrapbox.io/kyo9bo-memo/)⚾️
+- [scrapbox](https://scrapbox.io/kyo9bo-memo/)⚾️
 
 ### SNS🐉
 - [twitter](https://twitter.com/kyo9bonnn)
