@@ -14,9 +14,9 @@
 
 ### Memo📙
 
-If it is not as good as writing in blog or tech blog, write it in gist.
+If it is not as good as writing in blog or tech blog, write it in scrapbox.
 
-- [gist](https://gist.github.com/kk3939)⚾️
+- [scrrapbox](https://scrapbox.io/kyo9bo-memo/)⚾️
 
 ### SNS🐉
 - [twitter](https://twitter.com/kyo9bonnn)
