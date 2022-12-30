@@ -1,7 +1,7 @@
 ## Hi.I'm kyo9bo🍺🍺🍺🍺
 
 - web developer!!👀✍️
-- like frontend🎢
+- like React, Typescript, Go!!
 
 ### TechBlog💍
 
