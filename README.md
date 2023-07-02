@@ -1,4 +1,4 @@
-## Hi.I'm kyo9bo🍺🍺🍺🍺
+## Hi.I'm Kyosuke Kubo🍺🍺🍺🍺
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk3939&theme=dracula)
 
