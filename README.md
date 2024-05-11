@@ -1,6 +1,4 @@
 ## Hi.I'm kyo9bo🍺🍺🍺🍺
-[My Link is here!! Please check out!!](https://linktr.ee/kyo9bo)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kk3939&theme=dracula)
 
